@@ -43,13 +43,13 @@ Session.vim
 .dist
 .tmp
 
-/core/server/data/export/exported*
-/content/tmp/*
-/content/data/*
-/content/logs/*
-/content/apps/**/*
-/content/themes/**/*
-/content/images/**/*
+#/core/server/data/export/exported*
+#/content/tmp/*
+#/content/data/*
+#/content/logs/*
+#/content/apps/**/*
+#/content/themes/**/*
+#/content/images/**/*
 !/content/themes/casper/**
 !/README.md
 
